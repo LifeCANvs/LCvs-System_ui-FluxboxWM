@@ -162,6 +162,8 @@ pkgin in fluxbox
 - **note**: use `pkg_add` to install pkgin first, or directly to install fluxbox
 
 
+or
+
 - b) build with pkgsrc
 ```
 cd /usr/pkgsrc/wm/fluxbox
